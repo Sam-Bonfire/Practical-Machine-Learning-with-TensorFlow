@@ -9,6 +9,7 @@ verify_ssl = true
 jupyter = "*"
 tensorflow = "*"
 matplotlib = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.6"
